@@ -1,2 +1,2 @@
 # Beecrowd
-Solutions to Beecrowd problems using JavaScript
+Solutions to Beecrowd problems using JavaScript🚀
